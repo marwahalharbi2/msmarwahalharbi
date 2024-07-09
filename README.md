@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marwah 
 - 👀 I’m interested in data science 
-- 🌱 I’m currently doing my PhD and learning basics of DS
-- 💞️ I’m looking to collaborate on entry level projects
+- 🌱 I’m currently doing my PhD
+- 💞️ I’m looking to collaborate on entry-level projects
 - 📫 How to reach me Marwah.Alharbi@live.vu.edu.au
 
 <!---
